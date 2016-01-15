@@ -1,0 +1,13 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='styleSheets/style.css')
+    link(rel='stylesheet', href='/vendor/bootstrap/dist/css/bootstrap.min.css')
+  body
+    .container
+      h1= title
+      p This is demo Todo app
+      block content
+  script(src='/vendor/jquery/dist/jquery.min.js')
+  script(src='/vendor/bootstrap/dist/js/bootstrap.min.js')

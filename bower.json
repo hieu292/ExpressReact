@@ -1,0 +1,15 @@
+{
+  "name": "ExpressReact",
+  "description": "This is todo tasks demo expressjs nodejs angularjs mongoose jade",
+  "main": "",
+  "authors": [
+    "Steve Hieu"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
